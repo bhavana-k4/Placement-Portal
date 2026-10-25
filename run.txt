@@ -1,0 +1,10 @@
+##frontend
+cd dmce_frontend
+npm run dev
+
+##backend
+cd placement-portal-backend-updates
+npx wrangler dev
+
+##notifaction backend
+cd notification-system/server
